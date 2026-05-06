@@ -1,0 +1,5 @@
+12 May 2026,Food,1120.76
+12 May 2026,Crockery,122000.45
+10 May 2026,Food,1220.76
+12 May 2026,Travel,1600000.0
+11 May 2026,Shopping,12000.99
