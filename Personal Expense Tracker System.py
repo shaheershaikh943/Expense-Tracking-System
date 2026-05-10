@@ -3,7 +3,7 @@
 def Add_Expenses():
      expense_date = input("Enter the Date of Expense:")
      expense_category = input("Enter the Category of Expense:")
-     expense_amount = input("Enter the amount of Expense:")
+     expense_amount = float(input("Enter the amount of Expense:"))
      expense_data = View_Expenses()
      id = f"Expense-{len(expense_data)+1}"
      with open(file="Expenses.txt",mode="a") as file:
